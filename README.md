@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sivasankara Eswari S M!
+# 👋 Hello, I'm Sivasankara Eswari S M
 
 🌟 I'm a passionate learner exploring **Python**, **AI**, and **Machine Learning**.
 
